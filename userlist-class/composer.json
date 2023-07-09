@@ -1,0 +1,7 @@
+{
+    "name": "magebit/user-test",
+    "description": "User test",
+    "require": {
+        "phpunit/phpunit": "^9.5"
+    }
+}
